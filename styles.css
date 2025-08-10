@@ -7,10 +7,16 @@ body{
 	padding:10px; 
 	border-radius:3px;
 }
+.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:10px; 
+	border-radius:3px;
+}
 .section{
 	background-color:white;
 	border:2px solid black;
 	border-radius:5px;
-	
-	
+}
+a{
+	text-decoration:none;
 }
